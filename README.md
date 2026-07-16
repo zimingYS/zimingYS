@@ -19,7 +19,7 @@
 
 ## 代表项目
 
-### [世纪之旅](https://github.com/zimingYS/century_journey) *(未公开)
+### [世纪之旅](https://github.com/zimingYS/century_journey)
 
 采用 **Rust + Bevy** 实现的体素游戏。
 
