@@ -41,5 +41,6 @@
 ## GitHub 统计
 
 [![Ziming's GitHub stats](https://github-stats-extended.vercel.app/api?username=zimingYS)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github‑stats‑extended.vercel.app/api/top-langs/?username=zimingYS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zimingYS&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+
 
