@@ -94,7 +94,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"><a href="https://github.com/stats-organization/github-stats-extended"><img width="49%" src="https://github-stats-extended.vercel.app/api?username=zimingYS" alt="Ziming's GitHub stats" /></a><a href="https://github.com/stats-organization/github-stats-extended"><img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zimingYS&layout=compact" alt="Top languages" /></a></p>
+<p align="center"><a href="https://github.com/stats-organization/github-stats-extended"><img width="49%" src="https://github-stats-extended.vercel.app/api?username=zimingYS" alt="Ziming's GitHub stats" /></a><a href="https://github.com/stats-organization/github-stats-extended"><img width="45.6%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zimingYS&layout=compact" alt="Top languages" /></a></p>
 
 ---
 
