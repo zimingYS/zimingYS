@@ -59,7 +59,6 @@
 ## 🧩 其他项目
 
 - **[Rust_ERP](https://github.com/zimingYS/Rust_ERP)** — 基于 Rust（Axum + SeaORM）与 Vue 3 的企业资源计划管理系统，实践采购、销售、库存、财务、权限与审批等业务模块。<sub>毕业设计 / 学习与演示项目，非生产系统</sub>
-- **[餐饮经营管理系统](https://github.com/zimingYS/restaurant_operations_management_system)** — 基于 Rust + Axum 后端与 React 前端的餐饮业务管理系统，围绕业务 API、数据持久化与前后端协作展开。
 - **[Autologin](https://github.com/zimingYS/Autologin)** — 使用 Python 实现的校园网自动登录工具，将重复登录流程自动化，并支持配置管理与开机启动。
 
 ## 🧰 技术栈
