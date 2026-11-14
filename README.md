@@ -139,14 +139,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zimingYS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ziming's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimingYS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/zimingYS">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zimingYS&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&bg_color=1A1B27&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&hide_border=true&border_radius=12&card_width=460&cache_seconds=86400" alt="Ziming's GitHub statistics" />
+  </a>
+  <a href="https://github.com/zimingYS?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimingYS&layout=donut&langs_count=6&theme=tokyonight&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&border_radius=12&card_width=460&cache_seconds=86400" alt="Most used programming languages" />
+  </a>
+</p>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zimingYS&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
-</div>
+<p align="center">
+  <sub>统计卡片展示公开 GitHub 活动与代码语言分布。贡献日历可直接在 GitHub 个人主页查看，因此不再重复嵌入第三方活动图。</sub>
+</p>
 
 ---
 
